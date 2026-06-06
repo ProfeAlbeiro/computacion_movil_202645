@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# Cadena de conexión y key
+.env
